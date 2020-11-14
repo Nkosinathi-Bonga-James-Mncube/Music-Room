@@ -12,6 +12,7 @@ to work with third parties, integrating external SDKs.
 
 # Technologies used
  - Django
+ - Python
  - Deezer API
  - Javascript
  - AJAX
