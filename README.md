@@ -10,6 +10,20 @@ for you data storage, define an API that will be used as a communication channel
 your server and your clients, anticipate the problems of ramp-up and securing, and learn
 to work with third parties, integrating external SDKs.
 
+# Technologies used
+ - Django
+ - Deezer API
+ - Javascript
+ - AJAX
+ - MySQL
+ - HTML
+ 
+# Group Members:
+ - Nathi Mncube - nmncube@student.wethinkcode.co.za
+ - Kudzanai Gomera - kgomera@student.wethinkcode.co.za
+ - Joshua Kwayiba - jkwayiba@student.wethinkcode.co.za
+
+
 # Subjects
 
 There are a lot of subjects. You should dispatch the different tasks between your
